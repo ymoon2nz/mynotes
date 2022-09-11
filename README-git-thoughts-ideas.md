@@ -24,4 +24,3 @@ Git is a distributed version control system: tracking changes in any set of file
 **Branch is a particular type of ``commit``**
 
 1
-2
