@@ -23,4 +23,14 @@ Git is a distributed version control system: tracking changes in any set of file
 
 **Branch is a particular type of ``commit``**
 
-1
+---
+
+## My thoughts
+
+**git** is a tool to provide or enables various methods of sharing information between humans and computer systems as well as between computer systems.
+
+To interact with computer systems, we as humans uses interactive devices to feed our requests using punch card, keyboard, mouse and received information by various printed materials and monitor. Also we store this information in storage devices such as tape, disk, SSD, SAN and Cloud.
+
+**git** is actually plays very important role in this, not only between humans and computers but also inbetween computers to computers. We can add information into git including source codes, definitions and configurations including scripts into this for a computer system to execute and apply these instructions. This doesn't limit to one single systems but also to multiple computer systems. Because git not only stores, source information but also store information about how they interact each other and one of its methodology is a DevOps.
+
+
