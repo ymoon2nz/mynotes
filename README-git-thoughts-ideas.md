@@ -31,6 +31,6 @@ Git is a distributed version control system: tracking changes in any set of file
 
 To interact with computer systems, we as humans uses interactive devices to feed our requests using punch card, keyboard, mouse and received information by various printed materials and monitor. Also we store this information in storage devices such as tape, disk, SSD, SAN and Cloud.
 
-**git** is actually plays very important role in this, not only between humans and computers but also inbetween computers to computers. We can add information into git including source codes, definitions and configurations including scripts into this for a computer system to execute and apply these instructions. This doesn't limit to one single systems but also to multiple computer systems. Because git not only stores, source information but also store information about how they interact each other and one of its methodology is a DevOps.
+**git** can plays very important role in this, not only be a method of interaction between humans and computers but also between computers to computers. Typically by adding source codes, definitions and configurations as well as instruction codes such as scripts and programs for  computer system to execute and apply these instructions. This doesn't limit to a single systems but also to multiple computer systems. Because git not only stores, source information but also store information about how they can interact each other and one of its methodology is a DevOps.
 
 
